@@ -1,0 +1,6 @@
+numpy
+faster-whisper>=1.1.0
+yt-dlp
+# GPU transcription on Windows/Linux with an NVIDIA card:
+nvidia-cublas-cu12
+nvidia-cudnn-cu12
